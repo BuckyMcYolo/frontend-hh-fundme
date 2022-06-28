@@ -1,0 +1,12 @@
+#connectButton {
+    background-color: rgb(174, 24, 204);
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+
+}
+.btn {
+    background-color: lightcoral;
+}
